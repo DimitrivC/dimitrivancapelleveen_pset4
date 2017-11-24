@@ -95,7 +95,7 @@ public class TodoDatabase extends SQLiteOpenHelper {
             test = 0;
             //Log.d("test1", String.valueOf(test));
         }
-        else if (test == 0){
+        else if (test == 0) {
             test = 1;
         }
 
